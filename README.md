@@ -3,3 +3,8 @@ Reproducing ideas from __Making Pretrained Language Models Better Few Shot Lerne
 
 
 Experiment results on `roberta-base`
+<object data="exp-roberta-base.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="exp-roberta-base.pdf">
+        <p>pdf</p>
+    </embed>
+</object>
