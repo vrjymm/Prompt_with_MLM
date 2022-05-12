@@ -3,7 +3,7 @@ Reproducing ideas from __Making Pretrained Language Models Better Few Shot Lerne
 
 Main results -
 
-<img src="roberta-base-exp.jpg"  width="600px" height="400px">
+<img src="main_results.png"  width="600px" height="400px">
 
 Experiment results on `roberta-base`
 
