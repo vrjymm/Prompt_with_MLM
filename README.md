@@ -4,4 +4,4 @@ Reproducing ideas from __Making Pretrained Language Models Better Few Shot Lerne
 
 Experiment results on `roberta-base`
 
-<img src="roberta-base-exp.jpeg"  width="600px" height="400px">
+<img src="roberta-base-exp.jpg"  width="600px" height="400px">
