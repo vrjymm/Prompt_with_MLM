@@ -2,11 +2,13 @@
 Reproducing ideas from __Making Pretrained Language Models Better Few Shot Lerners__
 
 ### Datasets
+<hr>
 
 ### Task
+<hr>
 
 ### Examples
-
+<hr>
 Main results -
 
 <img src="main_results.png"  width="600px" height="300px">
