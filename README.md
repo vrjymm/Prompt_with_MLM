@@ -1,4 +1,4 @@
-# Prompt based finetuning using Masked Language Modelling
+# Prompt using Masked Language Modeling for finetuning LLMs
 Reproducing ideas from __Making Pretrained Language Models Better Few Shot Lerners__
 
 Main results -
